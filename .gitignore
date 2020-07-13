@@ -261,3 +261,7 @@ package-lock.json
 
 ### Editor extension
 .idea/
+
+.DS_Store
+*.swp
+*.swo
